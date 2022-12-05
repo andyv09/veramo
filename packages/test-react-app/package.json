@@ -34,7 +34,7 @@
     "typeorm": "^0.3.10",
     "util": "npm:util",
     "web-did-resolver": "^2.0.21",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
